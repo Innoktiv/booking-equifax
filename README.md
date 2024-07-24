@@ -1,2 +1,2 @@
-# booking-equifax
-Hackaton PEC CODE JAC Equifax 2024
+# booking-eqx
+Hackaton PEC CODE JAC Eqx 2024
